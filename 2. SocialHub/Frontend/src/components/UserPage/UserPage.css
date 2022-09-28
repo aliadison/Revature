@@ -1,0 +1,49 @@
+.user__container {
+    height: 100%;
+    min-height: 100% !important;
+    margin-top: -30px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    padding-bottom: 30px;
+    display: block;
+    overflow: auto;
+    align-items: center;
+}
+
+.dividor {
+    width: 350px;
+    margin-left: 20px;
+    margin-top: 10px;  
+    border: 1px solid #DADDE1;
+}
+
+.userpage__container {
+    margin-left: 90px;
+}
+.userpage__header {
+    padding-top: 40px;
+    padding-left: 30px;
+}
+
+.userpage__header > p {
+    margin-left: 30px;
+    padding-top: 15px;
+    font-size: 27px;
+    font-weight: 500;
+}
+
+.userpage__rows {
+    padding-left: 30px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.form__control {
+    width: 340px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid #DADDE1;
+    margin-top: 10px;
+    font-size: 18px;
+    padding: 0px 15px;
+    display: block;
+}

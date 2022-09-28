@@ -1,0 +1,50 @@
+table, th, td {
+    border: 1px solid;
+  }
+
+.col{
+    margin-left:50px;
+}
+
+.rtable {  
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 70%;
+}
+
+.rhead {
+    text-align: center;
+    padding: 10px ;  
+    background: #00adee;  
+    font-size: 25px;  
+    vertical-align: top;  
+    color: #1D4A5A;  
+    font-weight: normal;  
+    text-align: left;  
+       
+}  
+
+.rbody {  
+    text-align: center;
+    padding: 10px;  
+    font-size: 14px;  
+
+}  
+
+.mb-3{
+    width:400px;
+}
+
+.form-control{
+    width:30px;
+}
+
+.mb-4 {
+    width: 200px;
+    size: 20;
+}
+
+.form-control2 {
+    width:400px;
+}
+ 

@@ -1,0 +1,40 @@
+.leftpanelRow {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+    
+}
+
+.leftpanelRow:hover {
+    background-color: lightgray;
+    border-radius: 10px;
+}
+.leftpanelRow > h4 {
+    margin-left: 20px;
+    font-weight: 600;
+    
+}
+
+.leftpanelRow > .MuiSvgIcon-root {
+    font-size: xx-large;
+    color: #2e81f4;
+}
+
+.leftpanelRow-unactive {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #D8DBDE;
+    box-shadow: 0px 5px 8px -9px rgba(0, 0, 0, 0.75);
+}
+
+.leftpanelRow-unactive > h4 {
+    margin-left: 20px;
+    font-weight: 600
+}
+
+.leftpanelRow-unactive > .MuiSvgIcon-root {
+    font-size: xx-large;
+    color: #2e81f4;
+}
